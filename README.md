@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cláudio Cavalcante Tonha
-- 👀 I’m interested in everything related to web development related to C# and JS.
+- 👀 I’m interested in everything related to web development related to FrontEnd Development (ReactJs).
 ..
 
 <!---
